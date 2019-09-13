@@ -1,0 +1,38 @@
+[
+  {
+    "order": 1,
+    "name": "Round 1",
+    "sheet": "round1",
+    "dates": "Open"
+  },
+  {
+    "order": 2,
+    "name": "Round 2",
+    "sheet": "round2",
+    "dates": "Sept. 13"
+  },
+  {
+    "order": 3,
+    "name": "Round 3",
+    "sheet": "round3",
+    "dates": "Sept. 20"
+  },
+  {
+    "order": 4,
+    "name": "Round 4",
+    "sheet": "round4",
+    "dates": "Sept. 27"
+  },
+  {
+    "order": 5,
+    "name": "Round 5",
+    "sheet": "round5",
+    "dates": "Oct. 4"
+  },
+  {
+    "order": 6,
+    "name": "Winner Announced",
+    "sheet": "winner",
+    "dates": "Oct. 13"
+  }
+]

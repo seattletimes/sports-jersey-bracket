@@ -1,0 +1,36 @@
+header.splash {
+  position: relative;
+  line-height: 1.2;
+
+  img {
+    display: block;
+    width: 100%;
+  }
+
+  h1 {
+    text-transform: uppercase;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 44%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    text-align: center;
+    color: @df-off-white;
+    z-index: 1;
+    text-shadow: 4px 4px 9px @df-dark-gray;
+    margin: 0;
+    font-family: 'Roboto Slab', serif;;
+    font-weight: normal;
+
+    @media @mobile {
+      font-size: 30px;
+    }
+  }
+}
+
+.intro {
+  margin: 0 auto;
+  padding: 16px;
+  max-width: 600px;
+}

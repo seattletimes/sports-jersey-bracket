@@ -1,0 +1,62 @@
+<% data.options.forEach(function(option) { %>
+<div class="column collapsed">
+
+  <div class="photo-block">
+    <img src="./assets/photos/<%= option.data.photo %>.jpg">
+    <div class="caption">
+      <%= option.data.cutline %>
+    </div>
+  </div>
+
+  <h2>
+    <%= option.name %>
+  </h2>
+
+  <button class="show-more" aria-hidden="true">More information &raquo;</button>
+  
+  <div class="more-container"><div class="more">
+    <ul class="offerings">
+      <% if (option.data.veggie) { %>
+      <li> 
+        <svg class="icon veggie" viewBox="26 26 202 210">
+          <use xlink:href="#veggie"></use>
+        </svg>
+        <span><%= option.data.veggie || "none" %></span>
+      <% } %>
+      <% if (option.data.fries) { %>
+      <li> 
+        <svg class="icon fries" viewBox="26 26 202 210">
+          <use xlink:href="#fries"></use>
+        </svg>
+        <span><%= option.data.fries || "none" %></span>
+      <% } %>
+      <% if (option.data.shakes) { %>
+      <li> 
+        <svg class="icon shake" viewBox="26 26 202 210">
+          <use xlink:href="#shake"></use>
+        </svg>
+        <span><%= option.data.shakes || "none" %></span>
+      <% } %>
+    </ul>
+    
+    <ul class="description">
+      <li style="text-align: center"> Neighborhood: <%= option.data.neighborhood %>
+      <li> <b>What's popular</b> <%= option.data.popular %>
+      <li> <b>What's special</b> <%= option.data.unique %>
+      <li> <div class="contact"><a href="tel:<%= option.data.phone %>"><%= option.data.phone %></a>
+        <% if (option.data.url) { %>
+        | <a href="<%= option.data.url %>" target="_blank">website</a>
+        <% } %></div>
+    </ul>
+  </div></div>
+
+  <% if (data.active) { %>
+  <button class="vote" value="<%= option.name %>" data-index="<%= data.index %>">Vote</button>
+  <% } %>
+
+  <% if (data.winner == option.name) { %>
+    <div class="winner">&star; Winner &star;</div>
+  <% } %>
+
+</div>
+<% }); %>

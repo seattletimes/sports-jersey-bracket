@@ -1,0 +1,66 @@
+@import "seattletimes";
+
+@headline: 'Roboto Slab', serif;
+
+@import "header";
+@import "nav";
+@import "list";
+@import "versus";
+
+.constrained {
+  max-width: 800px;
+  margin: auto;
+}
+
+.byline {
+  max-width: 600px;
+  margin: auto;
+  padding: 32px 16px 0;
+  font-family: @df-sans;
+}
+
+.a11y-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+  overflow: hidden;
+  height: 1px;
+  width: 1px;
+}
+
+.actually {
+  padding: 32px 0 0;
+  max-width: 1600px;
+  margin: auto;
+
+  h2 {
+    padding-top: 10px;
+    text-align: center;
+    display: block;
+    font-family: @headline;
+    font-weight: normal;
+  }
+}
+
+.burger-fact {
+  padding: 16px;
+  font-size: 16px;
+  max-width: 400px;
+  margin: auto;
+}
+
+
+@media (min-width: 1080px) {
+  .actually {
+    .display-flex();
+    .align-items(flex-start);
+  }
+
+  .round-matchups {
+    .flex(1 1 200px);
+  }
+
+  .selected-matchup {
+    order: 9;
+  }
+}
