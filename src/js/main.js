@@ -1,8 +1,7 @@
 require("./lib/ads");
 var track = require("./lib/tracking");
 var paywall = require("./lib/paywall");
-setTimeout(() => paywall(11946352), 5000);
-
+setTimeout(() => paywall(11970314), 5000);
 
 var $ = require("./lib/qsa");
 var closest = require("./lib/closest");
@@ -11,10 +10,11 @@ var jsonp = require("./lib/jsonp");
 var memory = require("./memory");
 var scroll = require("./lib/animateScroll");
 
+
 var versusTemplate = dot.compile(require("./_versus.html"));
 var listTemplate = dot.compile(require("./_list.html"));
 
-var server = "https://script.google.com/macros/s/AKfycbzaj3p2dbj9rAEjTtiMJOqRAuhwFa6jYE7aA-grFdHeabTI_KNi/exec";
+var server = "https://script.google.com/macros/s/AKfycbzfOXQ7bxM4dR4Hl9MmN9Fktdqfd2D5uMHkqSgL4jOaeFFbaUyw/exec";
 
 var versusContainer = $.one(".selected-matchup");
 var listContainer = $.one(".round-matchups");

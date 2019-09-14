@@ -1,23 +1,20 @@
 [
   {
-    "seed": 1,
-    "name": "Mariners, 1987-1992, Home (White)",
+    "name": "Mariners, 1987-1992, Home",
     "unique": "While, like many iterations of Mariners jerseys, it didn't produce much on-field success, this jersey will live on forever in the form of Ken Griffey Jr.'s iconic 1989 Upper Deck rookie card.",
     "veggie": "Home (1987-1992)",
     "fries": "Ken Griffey Jr.",
     "photo": "mariners1.jpg"
   },
   {
-    "seed": 2,
-    "name": "Mariners, 1981-1984, Road (Powder Blue)",
-    "unique": "Oh, power blue. Just like disco, big hair and bell-bottom pants, everyone in the '80s was doing it. And the Mariners did it among the best.",
+    "name": "Mariners, 1981-1984, Road",
+    "unique": "Oh, powder blue. Just like punk rock, big hair and another type of powder, everyone in the '80s was doing it. And the Mariners did it among the best.",
     "veggie": "Road (1981-1984)",
     "fries": "Alvin Davis",
     "photo": "mariners2.jpg"
   },
   {
-    "seed": 3,
-    "name": "Mariners, 1994-1996, Alternate (Teal)",
+    "name": "Mariners, 1994-1996, Alternate",
     "unique": "No other team in baseball utilizes teal like the Mariners. It's regionally appropriate, and it pops. Added props to the mid-90s iteration over the current version for its on-field success and a slightly brighter shade of teal (as well as its contrast against the Kingdome turf).",
     "veggie": "Alternate (1994-1996)",
     "fries": "Ken Griffey Jr.",
@@ -25,16 +22,14 @@
     "photo": "mariners3.jpg"
   },
   {
-    "seed": 4,
-    "name": "Mariners, 2015-Present, Alternate (Cream)",
+    "name": "Mariners, 2015-Present, Sunday Alternate",
     "unique": "The Mariners combined past and present with a new element and nailed it. The blue and yellow colors are a nod to the team's original palette while the logo matches their current set. The cream adds another throwback touch. Now if only they'd break these out beyond Sunday.",
     "veggie": "Alternate (2015-Present)",
     "fries": "Robinson Cano",
     "photo": "mariners4.jpg"
   },
   {
-    "seed": 5,
-    "name": "Seahawks, 1976-2001, Home (Blue/Gray)",
+    "name": "Seahawks, 1976-2001, Home",
     "unique": "While this town's other teams cycled through uniforms, the Seahawks kept the same set for 25 years after their birth. It wasn't until they moved from the Kingdome to their new, outdoor stadium — now CenturyLink Field — that they switched it up. Fun fact: It was a fan vote that decided on blue helmets over silver.",
     "veggie": "Home (1976-2001)",
     "fries": "Steve Largent",
@@ -42,8 +37,7 @@
     "photo": "seahawks1.jpg"
   },
   {
-    "seed": 6,
-    "name": "Seahawks, 2012-Present, Home (Blue/Blue)",
+    "name": "Seahawks, 2012-Present, Home",
     "unique": "When Nike took over the NFL's uniforms in 2012, most teams charted largely the same course as they had under Reebok. Not the Seahawks. \"They were the ones that raised their hands first and said, 'Remake us. Reimage us,'\" global creative director of football Todd Van Horne told the Times on a visit to Nike's Beaverton, Oregon, headquarters in 2012.",
     "veggie": "Home (2012-Present)",
     "fries": "Russell Wilson",
@@ -51,52 +45,46 @@
     "photo": "seahawks2.jpg"
   },
   {
-    "seed": 7,
-    "name": "Seahawks, 2012-Present, Alternate (Action Green)",
+    "name": "Seahawks, 2016-Present, Color Rush",
     "unique": "You can love 'em. You can hate 'em. But you have to give the Seahawks credit for this: they went bold with their Color Rush jerseys, which they've only recycled once since their debut. Highlighters do seem to run out of ink faster than felt pens.",
     "veggie": "Road (2012-Present)",
     "fries": "Russell Wilson",
     "shakes": "Super Bowl XLVIII; NFC Wild Card - 2015, 2018; NFC West champions - 2013, 2014, 2016; NFC champions - 2014",
-    "photo": "seahawks3.jpg"
+    "photo": "seahawks4.jpg"
   },
   {
-    "seed": 8,
-    "name": "Seahawks, 2016-Present, Alternate (Wolf Gray)",
+    "name": "Seahawks, 2012-Present, Alternate",
     "unique": "The Seahawks broke these puppies out for the first time in a 50-17 win against the Bills in 2012, and that only foreshadowed the legend to come. In total, the Seahawks are 9-1-1 wearing the Wolf Grey alternates.",
     "veggie": "Alternate (2016-Present)",
     "fries": "Russell Wilson",
     "shakes": "NFC Wild Card - 2015, 2018; NFC West champions - 2013, 2014, 2016; NFC champions - 2014",
-    "photo": "seahawks4.jpg"
+    "photo": "seahawks3.jpg"
   },
   {
-    "seed": 9,
-    "name": "Storm, 2015-Present, Alternate (Yellow)",
-    "unique": "Points deducted for a bigger logo for Swedish Health than its own, but, like the Sounders, the Storm made its current jersey iconic with bright, bold colors — and a championship.",
+    "name": "Storm, 2015-2018, Alternate",
+    "unique": "Points deducted for bigger logos for Swedish Health and Verizon than its own, but, like the Sounders, the Storm made its current jersey iconic with bright, bold colors — and a championship.",
     "veggie": "Alternate (2015-Present)",
     "fries": "Breanna Stewart",
     "shakes": "WNBA champions - 2018",
     "photo": "storm2.jpg"
   },
   {
-    "seed": 10,
-    "name": "Storm, 2003-2009, home (white)",
-    "unique": "The last iteration of Storm jerseys before corporate sponsorship took hold were among their best. The Storm logo, with its lightning bolt flourish, contrasts on the white background with green and gold accents. ",
+    "name": "Storm, 2003-2009, home",
+    "unique": "The last iteration of Storm jerseys before corporate sponsorship took hold were among their best. The Storm logo, with its lightning bolt strikethrough and distinctive lettering, contrasts on the white background with green and gold accents. ",
     "veggie": "Home (2003-2009)",
     "fries": "Lauren Jackson",
     "shakes": "WNBA champions - 2004",
     "photo": "storm1.jpg"
   },
   {
-    "seed": 11,
-    "name": "Sounders, 2017-2018, Alternate ('Heritage Kit')",
+    "name": "Sounders, 2017-2018, Alternate",
     "unique": "The Sounders introduced these threads in 2017 as a nod to their 40-plus year history. The NASL Sounders crest rests below the cyan blue collar, both throwback odes to their predecessors.",
     "veggie": "Alternate (2017-2018)",
     "fries": "Clint Dempsey",
     "photo": "sounders2.jpg"
   },
   {
-    "seed": 12,
-    "name": "Sounders, 2016-2018, Home (Green/Blue)",
+    "name": "Sounders, 2016-2018, Home",
     "unique": "The Sounders have had one of the most iconic home kits in the MLS since entering the league. Bright, regional colors. One of the league's biggest sponsors — and 'cool' to boot. Seattle won one MLS Cup wearing these and played for another.",
     "veggie": "Home (2016-2018)",
     "fries": "Clint Dempsey",
@@ -104,96 +92,85 @@
     "photo": "sounders1.jpg"
   },
   {
-    "seed": 13,
-    "name": "UW football, 2019-Present, Road (Gold/White/Purple)",
+    "name": "UW football, 2019-Present, Road",
     "unique": "Notice the slant of the numbers? The tiny rain-drop pattern inside them? It's these intricate details Adidas lauded when they launched the Huskies' new uniform set this summer. The numbers are slanted to match the block 'W' logo.",
     "veggie": "Road (2019-Present)",
     "fries": "Jacob Eason",
     "photo": "uw_football2.jpg"
   },
   {
-    "seed": 14,
-    "name": "UW football, 2019-Present, Home (Gold/Purple/Purple)",
+    "name": "UW football, 2019-Present, Home",
     "unique": "Adidas chose to use a deeper, darker shade of purple for the Huskies' new base set of home uniforms. \"we wanted to enrich the already regal use of the color purple, while paying homage to the UW traditional color,\" Adidas senior design director Todd Rolak told the Times.",
     "veggie": "Home (2019-Present)",
     "fries": "Jacob Eason",
     "photo": "uw_football1.jpg"
   },
   {
-    "seed": 15,
-    "name": "UW baseball, 2010?-Present, Home Alternate (Pinstripes)",
-    "unique": "Pinstripes, while a classic look, aren't easy to pull off for just any team. But the Huskies do it well with a script logo — not dissimilar to the founding fathers of the pinsripes, the New York Yankees — across the front, providing for a retro look to accompany their other uniforms.",
+    "name": "UW baseball, 2010-Present, Home Alternate",
+    "unique": "Pinstripes, while a classic look, aren't easy to pull off for just any team. But the Huskies do it well with a script logo — not dissimilar to the founding fathers of the pinstripes, the New York Yankees — across the front, providing for a retro look to accompany their other uniforms.",
     "veggie": "Home (2010-Present)",
     "fries": "Jake Lamb",
     "photo": "uw_baseball.jpg"
   },
   {
-    "seed": 16,
-    "name": "UW football, 2013-Present, Alternate (chrome helmet)",
+    "name": "UW football, 2013-2018, Alternate",
     "unique": "The Huskies have rocked chrome helmets in gold and purple, the latter a stark departure from UW's traditional look. The Huskies transitioned from Nike to Adidas this year, but the deal didn't impact their headwear. They last wore the gold during their Fiesta Bowl loss to Penn State in 2017, the same season the purple helmets debuted. (Their last appearance was last season's loss at Cal.) No word on if they'll break out the chrome lids again.",
     "veggie": "Alternate (2013-Present)",
-    "fries": "Jake Browning"
+    "fries": "Jake Browning",
+    "photo": "uw_football3.jpg"
   },
   {
-    "seed": 17,
-    "name": "UW softball, 2005?-Present, Home (White/Purple)",
-    "unique": "Few uniforms in Seattle sports have seen as much success since the Huskies debuted these amidst their rise to national prominance. The clean, minimalistic purple jersey with white pants has made seven Women's College Series apperances — and one title game.",
+    "name": "UW softball, 2005-Present, Home",
+    "unique": "Few uniforms in Seattle sports have seen as much success since the Huskies debuted these amidst their rise to national prominance. The clean, minimalistic purple look has made seven Women's College Series appearances — and two title games.",
     "veggie": "Home (2005-Present)",
     "fries": "Danielle Lawrie",
     "shakes": "Women's College World Series champion - 2009; Pac-12 champion - 2010",
     "photo": "uw_softball.jpg"
   },
   {
-    "seed": 18,
-    "name": "Seattle Reign basketball, 1996-1998, (Maroon)",
+    "name": "Seattle Reign, 1996-1998, Home",
     "unique": "Before the Storm, there was the Reign. Not the soccer club — the hoops team. This women's pro hoops team competed with a maroon-and-gold color scheme for three seasons in the WNBA rival ABL.",
     "veggie": "Road (1996-1998)",
     "fries": "Cindy Brown",
     "photo": "reign.jpg"
   },
   {
-    "seed": 19,
-    "name": "WSU football, 1998, Rose Bowl (White/Crimson)",
+    "name": "WSU football, 1998, Rose Bowl",
     "unique": "Washington was reportedly the first team to add a patch of roses to its uniform for the Granddaddy of Them All way back in 1978. But 20 years later, the Cougars were the first team to add roses to their helmets in addition to the jersey patch.",
     "veggie": "Alternate (1998)",
     "fries": "Ryan Leaf",
-    "photo": "cougars2.jpg"
-  },
-  {
-    "seed": 20,
-    "name": "WSU football, Present, Home (Gray/Crimson/White)",
-    "unique": "Nike outfitted the Cougars for the Mike Leach era, and while it didn't include any swashbuckling features, it did give Wazzu its freshest look yet to match the 22-6 record they've amassed since introducing these in 2017.",
-    "veggie": "Home (2017-Present)",
-    "fries": "Gardner Minshew",
     "photo": "cougars1.jpg"
   },
   {
-    "seed": 21,
-    "name": "Sonics, 1984-1995, Road (Green)",
+    "name": "WSU football, Present, Home",
+    "unique": "Nike outfitted the Cougars for the Mike Leach era, and while it didn't include any swashbuckling features, it did give Wazzu its freshest look yet to match the 22-6 record they've amassed since introducing these in 2017.",
+    "veggie": "Home (2017-Present)",
+    "fries": "Gardner Minshew",
+    "photo": "cougars2.jpg"
+  },
+  {
+    "name": "Sonics, 1984-1995, Road",
     "unique": "Is there a more iconic Sonics jersey? That arched Sonics logo on the front, matching the name on the back was worn by the likes of Shawn Kemp, Gary Payton and Detlef Schrempf. Even the final iteration of Sonics jerseys drew inspiration from it — but nothing matched the original.",
     "veggie": "Road (1984-1995)",
     "fries": "Shawn Kemp",
     "photo": "sonics1.jpg"
   },
   {
-    "seed": 22,
-    "name": "Sonics, 1995-2001, Road (Green)",
+    "name": "Sonics, 1995-2001, Road ",
     "unique": "These uniforms bring back vivid memories of the 1996 NBA Finals. Shawn Kemp and Gary Payton facing off against the Goliath Michael Jordan Bulls. Still, they elicit mixed reactions among fans.",
     "veggie": "Road (1995-2001)",
     "fries": "Shawn Kemp",
     "photo": "sonics2.jpg"
   },
   {
-    "seed": 23,
-    "name": "Sonics, 1967-1970, Home (Gold)",
+    "name": "Sonics, 1967-1970, Home",
     "unique": "After three short years, the Sonics ditched these electric threads for a more traditional — but still clean-looking — script font across the front. But these were original, incorporating a lightning bolt and dotting the 'I' with a star.",
     "veggie": "Home (1967-1973)",
     "fries": "Lenny Wilkens",
     "photo": "sonics3.jpg"
   },
   {
-    "seed": 24,
-    "name": "Seattle U basketball, 1960s, (white/sleeved)",
+    "name": "Seattle U basketball, 1951-1965, Road",
     "unique": "Sleeved jerseys are making a comeback, but Seattle U was an original rocker of the look. Players like Elgin Baylor and the O'Brien twins wore these threads while leading the then-Chieftains to national athletic glory.",
     "veggie": "Home (1951-1965)",
     "fries": "Elgin Baylor",
@@ -201,16 +178,14 @@
     "photo": "seattleu.jpg"
   },
   {
-    "seed": 25,
-    "name": "Seattle Rainiers, 1961, Home (Cream)",
+    "name": "Seattle Rainiers, 1961, Home",
     "unique": "There's a reason the Rainiers' 'R' and, well, name are familiar even to non-baseball fans — and it's not the mountain. When Emil Sick bought the Rainiers, he fashioned his minor-league baseball team into a marketing arm for the beer label he owned. All these years later, the beer and the team name  — but not the franchise — live on. The vintage Rainiers jersey has been popularized in recent years by local retailer Ebbets Field Flannels, which features a wide selection of Seattle Rainiers gear alongside other throwback memorabilia.",
     "veggie": "Home (1961)",
     "fries": "Fred Hutchinson",
     "photo": "rainiers_seattle.jpg"
   },
   {
-    "seed": 26,
-    "name": "Metropolitans, 1915-1924, Home/Road",
+    "name": "Metropolitans, 1915-1924, Primary",
     "unique": "Will the new NHL team adopt this throwback name? Probably not. But will it wear these sweaters for the occasional turn-back-the-clock game? Uniwatch's Paul Lukas hopes so. (And so do we.)",
     "veggie": "Primary (1915-1924)",
     "fries": "Lester Patrick",
@@ -218,24 +193,21 @@
     "photo": "metropolitans.jpg"
   },
   {
-    "seed": 27,
-    "name": "Pilots, 1969, Home (White)",
+    "name": "Pilots, 1969, Home",
     "unique": "The Pilots played just one season, yet they have two uniforms in our tournament. Few teams since have matched the distinctive name and matching uniforms. But not everyone was a fan. \"There was a lot of grousing about the uniforms,\" Jim Bouton wrote in his book Ball Four. \"... I guess because we’re the Pilots we have to have captain’s uniforms. ... We look like goddamn clowns.\"",
     "veggie": "Home (1969)",
     "fries": "Jim Bouton",
     "photo": "pilots1.jpg"
   },
   {
-    "seed": 28,
-    "name": "Pilots, 1969, Road (Blue)",
+    "name": "Pilots, 1969, Road",
     "unique": "The Pilots' uniforms featured captain's stripes on the sleeves and gold wings, or \"scrambled eggs,\" adorning the royal blue bill of their hat. Fun fact: The Brewers' blue-and-gold color scheme mimics that of the Pilots because, under a time crunch, they had to reembroider the Pilots' uniforms before their first game in Milwaukee.",
     "veggie": "Road (1969)",
     "fries": "Jim Bouton",
     "photo": "pilots2.jpg"
   },
   {
-    "seed": 29,
-    "name": "Tacoma Rainiers, 2015-Present, Home Alternate (Red/White)",
+    "name": "Tacoma Rainiers, 2015-Present, Home Alternate",
     "unique": "Is there a better way to represent the 2-5-3 than with that script 'R' Rainiers cap? The Mariners' Triple-A affiliate rebranded in 2015 with the fans in mind, and merchandise sales have spiked since.",
     "veggie": "Home (2015-Present)",
     "fries": "Mike Zunino",
@@ -243,8 +215,7 @@
     "photo": "rainiers_tacoma.jpg"
   },
   {
-    "seed": 30,
-    "name": "Seattle Thunderbirds, 1994-Present, Home (Blue)",
+    "name": "Seattle Thunderbirds, 1994-Present, Home",
     "unique": "There's a reason many wish our forthcoming NHL team could simply steal the identity of its WHL predecessor. They're in Kent now, but the T-birds rocked this classic sweater for more than a decade in Seattle before taking it south, one of the longest-running uniform sets in the Northwest.",
     "veggie": "Home (1994-Present)",
     "fries": "Mathew Barzal",
@@ -252,16 +223,14 @@
     "photo": "thunderbirds.jpg"
   },
   {
-    "seed": 31,
-    "name": "Mariners, “2021”, Special (Turn Ahead The Clock)",
+    "name": "Mariners, “2021”, Turn Ahead The Clock",
     "unique": "We have Kevin Martinez — and Ken Griffey Jr. — to thank for this two-year phenomenon in the late '90s. Now the Mariners vice president of marketing, Martinez was the mastermind behind the brilliant promotion that went league-wide in 1999 after the Mariners did it in 1998. Griffey reportedly worked closely with the design of the futuristic look. We're less than two years away from 2021. So, how'd they do?",
     "veggie": "Alternate (1998-1999)",
     "fries": "Ken Griffey Jr.",
     "photo": "mariners5.jpg"
   },
   {
-    "seed": 32,
-    "name": "Everett Aquasox, 2017-Present, Alternate ('Throwback Frogs')",
+    "name": "Everett Aquasox, 2017-Present, Alternate",
     "unique": "First popularized by the Houston Astros in the 1980s, the Aquasox introduced their version of the 'Tequila Sunrise' jersey in 2017 to much fanfare. They call it the 'Throwback Frogs' uniform, but have they considered 'Curacau Sunrise'?",
     "veggie": "Alternate (2017-Present)",
     "fries": "Evan White",

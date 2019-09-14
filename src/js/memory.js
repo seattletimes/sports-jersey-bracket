@@ -1,4 +1,4 @@
-var slot = "beer-bracket-2019"
+var slot = "jersey-bracket-2019"
 var memory = localStorage.getItem(slot) || "{}";
 memory = JSON.parse(memory);
 
