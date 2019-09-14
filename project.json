@@ -2,20 +2,20 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "carnal-bravo"
+      "path": "organized-notion"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2019/brewery-battle"
+      "path": "2019/sports/seattle-jersey-bracket"
     }
   },
-  "title": "Brewery Battle",
-  "description": "Follow along our beer bracket as we search for Seattle's most popular brewery — we'll announce the winner on Oct. 13",
-  "url": "https://projects.seattletimes.com/2019/brewery-battle/",
+  "title": "Seattle Jersey Bracket: Cast your vote for the best uniform in our city",
+  "description": "Cast your vote.",
+  "url": "https://projects.seattletimes.com/2019/sports/seattle-jersey-bracket",
   "image": "assets/social.jpg",
-  "sheets": ["1miZ_l_e8ZHHyz5b09X2UpFxGbweLK61KDpB7GUGO6nE"],
-  "endpoint": "https://script.google.com/macros/s/AKfycbzaj3p2dbj9rAEjTtiMJOqRAuhwFa6jYE7aA-grFdHeabTI_KNi/exec",
+  "sheets": ["1yscGpg-wGwf5tFxWABtv5rHwAYlcHIHyBOFBfx3eEdQ"],
+  "endpoint": "https://script.google.com/macros/s/AKfycbzfOXQ7bxM4dR4Hl9MmN9Fktdqfd2D5uMHkqSgL4jOaeFFbaUyw/exec",
   "standout": false,
   "embedded": false,
-  "production": true
+  "production": false
 }
