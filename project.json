@@ -15,7 +15,7 @@
   "image": "assets/social.jpg",
   "sheets": ["1yscGpg-wGwf5tFxWABtv5rHwAYlcHIHyBOFBfx3eEdQ"],
   "endpoint": "https://script.google.com/macros/s/AKfycbzfOXQ7bxM4dR4Hl9MmN9Fktdqfd2D5uMHkqSgL4jOaeFFbaUyw/exec",
-  "standout": false,
+  "standout": true,
   "embedded": false,
   "production": false
 }
