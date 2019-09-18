@@ -1,98 +1,162 @@
 [
   {
-    "name": "Mariners, 1987-1992, Home"
+    "name": "Mariners, 1987-1992, Home",
+    "votes": 5352,
+    "percent": "66.47%"
   },
   {
-    "name": "Mariners, 1981-1984, Road"
+    "name": "Mariners, 1981-1984, Road",
+    "votes": 2700,
+    "percent": "33.53%"
   },
   {
-    "name": "Mariners, 1994-1996, Alternate"
+    "name": "Mariners, 1994-1996, Alternate",
+    "votes": 3053,
+    "percent": "46.78%"
   },
   {
-    "name": "Mariners, 2015-Present, Sunday Alternate"
+    "name": "Mariners, 2015-Present, Sunday Alternate",
+    "votes": 3473,
+    "percent": "53.22%"
   },
   {
-    "name": "Seahawks, 1976-2001, Home"
+    "name": "Seahawks, 1976-2001, Home",
+    "votes": 3226,
+    "percent": "46.35%"
   },
   {
-    "name": "Seahawks, 2012-Present, Home"
+    "name": "Seahawks, 2012-Present, Home",
+    "votes": 3734,
+    "percent": "53.65%"
   },
   {
-    "name": "Seahawks, 2016-Present, Color Rush"
+    "name": "Seahawks, 2016-Present, Color Rush",
+    "votes": 1951,
+    "percent": "29.50%"
   },
   {
-    "name": "Seahawks, 2012-Present, Alternate"
+    "name": "Seahawks, 2012-Present, Alternate",
+    "votes": 4662,
+    "percent": "70.50%"
   },
   {
-    "name": "Storm, 2015-2018, Alternate"
+    "name": "Storm, 2015-2018, Alternate",
+    "votes": 758,
+    "percent": "11.90%"
   },
   {
-    "name": "Storm, 2003-2009, home"
+    "name": "Storm, 2003-2009, home",
+    "votes": 5614,
+    "percent": "88.10%"
   },
   {
-    "name": "Sounders, 2017-2018, Alternate"
+    "name": "Sounders, 2017-2018, Alternate",
+    "votes": 1517,
+    "percent": "25.16%"
   },
   {
-    "name": "Sounders, 2016-2018, Home"
+    "name": "Sounders, 2016-2018, Home",
+    "votes": 4512,
+    "percent": "74.84%"
   },
   {
-    "name": "UW football, 2019-Present, Road"
+    "name": "UW football, 2019-Present, Road",
+    "votes": 1239,
+    "percent": "18.96%"
   },
   {
-    "name": "UW football, 2019-Present, Home"
+    "name": "UW football, 2019-Present, Home",
+    "votes": 5295,
+    "percent": "81.04%"
   },
   {
-    "name": "UW baseball, 2010-Present, Home Alternate"
+    "name": "UW baseball, 2010-Present, Home Alternate",
+    "votes": 3206,
+    "percent": "54.52%"
   },
   {
-    "name": "UW football, 2013-2018, Alternate"
+    "name": "UW football, 2013-2018, Alternate",
+    "votes": 2674,
+    "percent": "45.48%"
   },
   {
-    "name": "UW softball, 2005-Present, Home"
+    "name": "UW softball, 2005-Present, Home",
+    "votes": 4357,
+    "percent": "73.37%"
   },
   {
-    "name": "Seattle Reign, 1996-1998, Home"
+    "name": "Seattle Reign, 1996-1998, Home",
+    "votes": 1581,
+    "percent": "26.63%"
   },
   {
-    "name": "WSU football, 1998, Rose Bowl"
+    "name": "WSU football, 1998, Rose Bowl",
+    "votes": 2583,
+    "percent": "43.51%"
   },
   {
-    "name": "WSU football, Present, Home"
+    "name": "WSU football, Present, Home",
+    "votes": 3353,
+    "percent": "56.49%"
   },
   {
-    "name": "Sonics, 1984-1995, Road"
+    "name": "Sonics, 1984-1995, Road",
+    "votes": 5143,
+    "percent": "81.75%"
   },
   {
-    "name": "Sonics, 1995-2001, Road "
+    "name": "Sonics, 1995-2001, Road ",
+    "votes": 1148,
+    "percent": "18.25%"
   },
   {
-    "name": "Sonics, 1967-1970, Home"
+    "name": "Sonics, 1967-1970, Home",
+    "votes": 4501,
+    "percent": "77.38%"
   },
   {
-    "name": "Seattle U basketball, 1951-1965, Road"
+    "name": "Seattle U basketball, 1951-1965, Road",
+    "votes": 1316,
+    "percent": "22.62%"
   },
   {
-    "name": "Seattle Rainiers, 1961, Home"
+    "name": "Seattle Rainiers, 1961, Home",
+    "votes": 4062,
+    "percent": "67.20%"
   },
   {
-    "name": "Metropolitans, 1915-1924, Primary"
+    "name": "Metropolitans, 1915-1924, Primary",
+    "votes": 1983,
+    "percent": "32.80%"
   },
   {
-    "name": "Pilots, 1969, Home"
+    "name": "Pilots, 1969, Home",
+    "votes": 2502,
+    "percent": "44.03%"
   },
   {
-    "name": "Pilots, 1969, Road"
+    "name": "Pilots, 1969, Road",
+    "votes": 3180,
+    "percent": "55.97%"
   },
   {
-    "name": "Tacoma Rainiers, 2015-Present, Home Alternate"
+    "name": "Tacoma Rainiers, 2015-Present, Home Alternate",
+    "votes": 2153,
+    "percent": "37.18%"
   },
   {
-    "name": "Seattle Thunderbirds, 1994-Present, Home"
+    "name": "Seattle Thunderbirds, 1994-Present, Home",
+    "votes": 3637,
+    "percent": "62.82%"
   },
   {
-    "name": "Mariners, “2021”, Turn Ahead The Clock"
+    "name": "Mariners, “2021”, Turn Ahead The Clock",
+    "votes": 2421,
+    "percent": "42.71%"
   },
   {
-    "name": "Everett Aquasox, 2017-Present, Alternate"
+    "name": "Everett Aquasox, 2017-Present, Alternate",
+    "votes": 3248,
+    "percent": "57.29%"
   }
 ]
