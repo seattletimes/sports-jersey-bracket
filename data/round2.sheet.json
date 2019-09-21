@@ -1,50 +1,82 @@
 [
   {
     "name": "Mariners, 1987-1992, Home",
+    "votes": 1506,
+    "percent": "48.12%"
   },
   {
     "name": "Mariners, 2015-Present, Sunday Alternate",
+    "votes": 1624,
+    "percent": "51.88%"
   },
   {
     "name": "Seahawks, 2012-Present, Home",
+    "votes": 2047,
+    "percent": "72.03%"
   },
   {
     "name": "Seahawks, 2012-Present, Alternate",
+    "votes": 795,
+    "percent": "27.97%"
   },
   {
     "name": "Storm, 2003-2009, home",
+    "votes": 1425,
+    "percent": "50.60%"
   },
   {
     "name": "Sounders, 2016-2018, Home",
+    "votes": 1391,
+    "percent": "49.40%"
   },
   {
     "name": "UW football, 2019-Present, Home",
+    "votes": 2088,
+    "percent": "73.68%"
   },
   {
     "name": "UW baseball, 2010-Present, Home Alternate",
+    "votes": 746,
+    "percent": "26.32%"
   },
   {
     "name": "UW softball, 2005-Present, Home",
+    "votes": 1685,
+    "percent": "58.63%"
   },
   {
     "name": "WSU football, Present, Home",
+    "votes": 1189,
+    "percent": "41.37%"
   },
   {
     "name": "Sonics, 1984-1995, Road",
+    "votes": 2455,
+    "percent": "87.18%"
   },
   {
     "name": "Sonics, 1967-1970, Home",
+    "votes": 361,
+    "percent": "12.82%"
   },
   {
     "name": "Seattle Rainiers, 1961, Home",
+    "votes": 1829,
+    "percent": "66.20%"
   },
   {
     "name": "Pilots, 1969, Road",
+    "votes": 934,
+    "percent": "33.80%"
   },
   {
     "name": "Seattle Thunderbirds, 1994-Present, Home",
+    "votes": 2106,
+    "percent": "77.31%"
   },
   {
     "name": "Everett Aquasox, 2017-Present, Alternate",
+    "votes": 618,
+    "percent": "22.69%"
   }
 ]
