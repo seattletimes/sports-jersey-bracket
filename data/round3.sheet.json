@@ -1,26 +1,42 @@
 [
-    {
-      "name": "Mariners, 2015-Present, Sunday Alternate"
-    },
-    {
-      "name": "Seahawks, 2012-Present, Home"
-    },
-    {
-      "name": "Storm, 2003-2009, home"
-    },
-    {
-      "name": "UW football, 2019-Present, Home"
-    },
-    {
-      "name": "UW softball, 2005-Present, Home"
-    },
-    {
-      "name": "Sonics, 1984-1995, Road"
-    },
-    {
-      "name": "Seattle Rainiers, 1961, Home"
-    },
-    {
-      "name": "Seattle Thunderbirds, 1994-Present, Home"
-    }
-  ]
+  {
+    "name": "Mariners, 2015-Present, Sunday Alternate",
+    "votes": 1723,
+    "percent": "37.75%"
+  },
+  {
+    "name": "Seahawks, 2012-Present, Home",
+    "votes": 2841,
+    "percent": "62.25%"
+  },
+  {
+    "name": "Storm, 2003-2009, home",
+    "votes": 1352,
+    "percent": "32.80%"
+  },
+  {
+    "name": "UW football, 2019-Present, Home",
+    "votes": 2770,
+    "percent": "67.20%"
+  },
+  {
+    "name": "UW softball, 2005-Present, Home",
+    "votes": 659,
+    "percent": "16.04%"
+  },
+  {
+    "name": "Sonics, 1984-1995, Road",
+    "votes": 3450,
+    "percent": "83.96%"
+  },
+  {
+    "name": "Seattle Rainiers, 1961, Home",
+    "votes": 2248,
+    "percent": "56.51%"
+  },
+  {
+    "name": "Seattle Thunderbirds, 1994-Present, Home",
+    "votes": 1730,
+    "percent": "43.49%"
+  }
+]
