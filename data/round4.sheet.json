@@ -1,14 +1,22 @@
 [
-    {
-      "name": "Seahawks, 2012-Present, Home"
-    },
-    {
-      "name": "UW football, 2019-Present, Home"
-    },
-    {
-      "name": "Sonics, 1984-1995, Road"
-    },
-    {
-      "name": "Seattle Rainiers, 1961, Home"
-    }
-  ]
+  {
+    "name": "Seahawks, 2012-Present, Home",
+    "votes": 988,
+    "percent": "49.25%"
+  },
+  {
+    "name": "UW football, 2019-Present, Home",
+    "votes": 1018,
+    "percent": "50.75%"
+  },
+  {
+    "name": "Sonics, 1984-1995, Road",
+    "votes": 1322,
+    "percent": "73.77%"
+  },
+  {
+    "name": "Seattle Rainiers, 1961, Home",
+    "votes": 470,
+    "percent": "26.23%"
+  }
+]
