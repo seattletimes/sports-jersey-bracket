@@ -67,7 +67,7 @@ var submitVote = function(e) {
   switch (e.target.className) {
     case "vote":
       var buttons = $(".vote", versusContainer)
-      buttons.forEach(b => b.disabled = true);
+      buttons.forEach(b => b.disabled = false);
       var name = e.target.value;
       var index = e.target.getAttribute("data-index");
       var matchup = state.selectedRound[index];
